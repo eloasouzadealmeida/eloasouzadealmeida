@@ -1,4 +1,4 @@
-### boas vindas ao meu perfil 🐕‍🦺
+### boas vindas ao meu perfil 🐰
 meu nome é Eloá
 
 - Estou estudando o [Alura] (https://www.alura.com.br)
